@@ -3,9 +3,7 @@ function About() {
     <section id="about">
       <h2>About Me</h2>
       <p>
-        I'm Alan, a junior developer based in Mexico City. 
-        I recently completed a bootcamp and I'm focused on 
-        building real projects with React and JavaScript.
+        I'm Alan, a Project Analyst in Financial Services turned junior developer based in Mexico City. After years in financial services, my passion for technology and innovation pushed me to make the jump, I completed a bootcamp where I built with JavaScript, React, Node, and Express. I'm now looking to grow into a professional developer and work on products that make a difference in people's lives.
       </p>
     </section>
   )
