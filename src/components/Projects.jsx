@@ -21,7 +21,6 @@ return (
                 <p>{project.tech.join(" · ")}</p>
                 <div className="project-links">
                     <a href={project.liveUrl} target="_blank" rel="noreferrer">Live Demo</a>
-                    <span> · </span>
                     <a href={project.githubUrl} target="_blank" rel="noreferrer">GitHub</a>
                 </div>
             </div>
