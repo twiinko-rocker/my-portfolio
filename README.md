@@ -5,7 +5,7 @@ A personal portfolio website built with React and Vite.
 showcasing my projects and background as a junior developer.
 
 ## 🔗 Live Site
-[View Portfolio](YOUR_VERCEL_URL_HERE)
+[View Portfolio](https://myportfolio-alan-dev.vercel.app/)
 
 ## 🛠️ Built With
 - React
