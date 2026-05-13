@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   background-color: #0a0a0a;
@@ -114,4 +118,35 @@ footer a {
   padding: 0.4rem 1rem;
   border-radius: 4px;
   font-size: 0.9rem;
+}
+
+/* Navbar hover */
+nav a:hover {
+  color: #aaa;
+  transition: color 0.2s ease;
+}
+
+/* Hero button hover */
+#hero a:hover {
+  background-color: #ddd;
+  transition: background-color 0.2s ease;
+}
+
+/* Project card hover */
+.project-card:hover {
+  border-color: #555;
+  transition: border-color 0.2s ease;
+}
+
+/* Project link buttons hover */
+.project-links a:hover {
+  background-color: #222;
+  border-color: #888;
+  transition: all 0.2s ease;
+}
+
+/* Footer links hover */
+footer a:hover {
+  color: #aaa;
+  transition: color 0.2s ease;
 }
