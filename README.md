@@ -1,16 +1,40 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Alan's Portfolio
 
-Currently, two official plugins are available:
+A personal portfolio website built with React and Vite. 
+showcasing my projects and background as a junior developer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🔗 Live Site
+[View Portfolio](YOUR_VERCEL_URL_HERE)
 
-## React Compiler
+## 🛠️ Built With
+- React
+- Vite
+- CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📁 Project Structure
 
-## Expanding the ESLint configuration
+src/
+├── components/
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── About.jsx
+│   ├── Projects.jsx
+│   └── Footer.jsx
+├── App.jsx
+├── main.jsx
+└── index.css
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🚀 Run Locally
+```bash
+git clone https://github.com/twiinko-rocker/my-portfolio.git
+cd my-portfolio
+npm install
+npm run dev
+```
+
+## 👤 Author
+Alan C. 
+[LinkedIn](https://www.linkedin.com/in/alan-correa-8562b1b0/)
+[GitHub](https://github.com/twiinko-rocker)
